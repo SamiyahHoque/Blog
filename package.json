@@ -1,11 +1,11 @@
 {
-  "homepage": "http://samiyahhoque.github.io/blog",
+  "homepage": "http://samiyahhoque.github.io/Blog",
   "name": "portfolio-site",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh-pages -d .next",
+    "deploy": "gh-pages -d .next",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
