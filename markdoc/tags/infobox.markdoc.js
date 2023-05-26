@@ -1,4 +1,4 @@
-import Infobox from "../../components/Infobox";
+import Infobox from "@/components/InfoBox";
 
 export const infobox = {
   render: Infobox,
